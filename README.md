@@ -129,6 +129,8 @@ Skills for working with complex file formats:
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
 
+| **[documents-administratifs-francais](https://github.com/contact848/chipie-skills-francais)** | French administrative and regulatory filings, written natively in French: loi 1901 nonprofits, urban-policy grants, Qualiopi certification, construction waste registers, GDPR records, furnished-rental leases, e-invoicing. Names the right official form and portal, and the mistakes that get a file rejected |
+
 _More community skills coming soon! Submit a PR to add your skill._
 
 ### Tools
